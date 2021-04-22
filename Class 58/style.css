@@ -1,0 +1,27 @@
+body {
+text-align : center;
+background-color : linear-gradient(#ffffff 0%, #000000 100%)
+}
+head {
+  font-size : 75px;
+}
+img {
+  height: 100px;
+  width: 150px;
+}
+.line {
+  width: 200px;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
